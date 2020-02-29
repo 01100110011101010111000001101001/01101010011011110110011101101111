@@ -12,7 +12,11 @@ body {
   border-color: #fff;
 }
 
-.title p {
+br {
+  margin-top: 10px;
+}
+
+#title p {
   font-size: 30px;
   margin: 10px;
 }
